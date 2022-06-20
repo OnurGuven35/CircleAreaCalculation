@@ -21,7 +21,6 @@ public class Circle {
 
         System.out.println();
         System.out.println("Dairenin Alani : " + area);
-        System.out.print("Dairenin Cevresi : " + perim);
-        System.out.println();
+        System.out.println("Dairenin Cevresi : " + perim);
     }
 }
